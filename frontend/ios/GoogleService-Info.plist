@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>560188765864-gjl5f1ee9f48gnvv3gf767f8gs55krcu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.560188765864-gjl5f1ee9f48gnvv3gf767f8gs55krcu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDy_GaN2uu93k_-Sq02mksB2plC7FFydFs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>560188765864</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nia.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>nia-mobile-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nia-mobile-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:560188765864:ios:c11bd45a99c4efb12eb49d</string>
+</dict>
+</plist>

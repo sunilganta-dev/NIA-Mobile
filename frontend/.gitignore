@@ -1,0 +1,50 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.buildlog
+pubspec.lock
+
+# Build outputs
+build/
+
+# Generated docs
+doc/api/
+
+# Environment variables
+.env
+.env*
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Web generated
+*.dart.js
+*.info.json
+*.js
+*.js.map
+*.js.deps
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+**/GeneratedPluginRegistrant.java
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# Windows / Linux
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/

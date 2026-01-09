@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "560188765864",
+    "project_id": "nia-mobile-app",
+    "storage_bucket": "nia-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560188765864:android:a985d118f20cd26f2eb49d",
+        "android_client_info": {
+          "package_name": "com.example.nia_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560188765864-emmtv8th823iukfjs506h5s70jpr3810.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMF3FHQjc_QQ9eXBfaYRowoc1dwOGtY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560188765864-emmtv8th823iukfjs506h5s70jpr3810.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560188765864-gjl5f1ee9f48gnvv3gf767f8gs55krcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nia.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560188765864:android:e9cba301a72d67002eb49d",
+        "android_client_info": {
+          "package_name": "com.nia.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560188765864-emmtv8th823iukfjs506h5s70jpr3810.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMF3FHQjc_QQ9eXBfaYRowoc1dwOGtY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560188765864-emmtv8th823iukfjs506h5s70jpr3810.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560188765864-gjl5f1ee9f48gnvv3gf767f8gs55krcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nia.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
